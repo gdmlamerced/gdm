@@ -1,0 +1,106 @@
+baseURL = "gdmlamerced.github.io/gdm"
+title = "GDM La Merced Corella"
+author = "usarral"
+languageCode = "es"
+DefaultContentLanguage = "es"
+enableInlineShortcodes = true
+theme = "Blonde"
+enableRobotsTXT = true
+enableEmoji = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+googleAnalytics = "G-N9NRVJRPPS"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
+
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "true"
+
+# Number of tags to be displayed.
+tagsLimit = 20
+
+  [params.post]
+    thumbnail_height = "h-48"
+
+    thumbnail_width = "w-auto"
+
+  [params.widgets]
+    archives = true
+    categories = true
+    tags = true
+    recentposts = false
+    search = false
+
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre el Club"
+    url = "/about/"
+    weight = 2
+
+    [[menu.main]]
+    identifier = "lives"
+    name = "Directos"
+    url = "/lives/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Contacto"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+[build]
+  writeStats = true
