@@ -1,4 +1,4 @@
-baseURL = "gdmlamerced.github.io/gdm"
+baseURL = "https://gdmlamerced.github.io/gdm"
 title = "GDM La Merced Corella"
 author = "usarral"
 languageCode = "es"
@@ -8,23 +8,16 @@ theme = "Blonde"
 enableRobotsTXT = true
 enableEmoji = true
 
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
 
-# If you're using Google Analytics, you can enable this feature.
 googleAnalytics = "G-N9NRVJRPPS"
 
-# Disqus Comment System
 #disqusShortname = ""
 
 [params]
-# The number of articles to be displayed on a single page.
 paginator_pages = "5"
 
-# Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "true"
 
-# Number of tags to be displayed.
 tagsLimit = 20
 
   [params.post]
@@ -39,10 +32,6 @@ tagsLimit = 20
     recentposts = false
     search = false
 
-# If you're using Yandex.Metrica, you can enable this feature.
-#[params.analytics.yandexmetrica]
-#    enabled = true
-#    tagNumber = ''
 
 [menu]
 
