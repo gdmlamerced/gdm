@@ -44,19 +44,19 @@ tagsLimit = 20
   [[menu.main]]
     identifier = "about"
     name = "Sobre el Club"
-    url = "/sobreelclub/"
+    url = "/about/"
     weight = 2
 
     [[menu.main]]
     identifier = "lives"
     name = "Directos"
-    url = "/directos/"
+    url = "/lives/"
     weight = 3
 
   [[menu.main]]
     identifier = "Contacto"
     name = "Contacto"
-    url = "/contacto/"
+    url = "/contact/"
     weight = 4
 
 [taxonomies]

@@ -19,6 +19,7 @@
       "input",
       "label",
       "link",
+      "main",
       "meta",
       "nav",
       "p",
@@ -127,8 +128,10 @@
       "dark-mode-toggle-icon1",
       "dark-mode-toggle-icon2",
       "hamburgerbtn",
+      "main",
       "mobileMenu",
       "thumb",
+      "title",
       "twitch-embed"
     ]
   }
