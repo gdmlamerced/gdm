@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gdmlamerced.github.io/gdm/</loc>
+    <loc>https://gdmlamerced.github.io/</loc>
     <lastmod>2021-03-16T17:13:44+01:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/posts/nueva-web/</loc>
+    <loc>https://gdmlamerced.github.io/posts/nueva-web/</loc>
     <lastmod>2021-03-16T17:13:44+01:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/posts/</loc>
+    <loc>https://gdmlamerced.github.io/posts/</loc>
     <lastmod>2021-03-16T17:13:44+01:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/contact/</loc>
+    <loc>https://gdmlamerced.github.io/contact/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/lives/</loc>
+    <loc>https://gdmlamerced.github.io/lives/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/about/</loc>
+    <loc>https://gdmlamerced.github.io/thanks/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdmlamerced.github.io/about/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/archives/</loc>
+    <loc>https://gdmlamerced.github.io/archives/</loc>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/categories/</loc>
+    <loc>https://gdmlamerced.github.io/categories/</loc>
   </url><url>
-    <loc>https://gdmlamerced.github.io/gdm/tags/</loc>
+    <loc>https://gdmlamerced.github.io/tags/</loc>
   </url>
 </urlset>

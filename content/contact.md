@@ -4,4 +4,4 @@ description = "Puedes contactar con nuestro club desde los metodos que encontrar
 date = "2021-03-16"
 +++
 
-.
+{{<contact>}}

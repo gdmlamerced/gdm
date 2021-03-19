@@ -1,4 +1,4 @@
-baseURL = "https://gdmlamerced.github.io/gdm"
+baseURL = "https://gdmlamerced.github.io"
 title = "GDM La Merced Corella"
 author = "usarral"
 languageCode = "es"
@@ -44,19 +44,19 @@ tagsLimit = 20
   [[menu.main]]
     identifier = "about"
     name = "Sobre el Club"
-    url = "/about/"
+    url = "/sobreelclub/"
     weight = 2
 
     [[menu.main]]
     identifier = "lives"
     name = "Directos"
-    url = "/lives/"
+    url = "/directos/"
     weight = 3
 
   [[menu.main]]
     identifier = "Contacto"
-    name = "Contact"
-    url = "/contact/"
+    name = "Contacto"
+    url = "/contacto/"
     weight = 4
 
 [taxonomies]
